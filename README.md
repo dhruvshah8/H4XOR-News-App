@@ -5,7 +5,7 @@ Using the Angolia REST API I created a list using SwiftUI and intergrated the a 
 
 Pictures 
 
-Features
+### Features
 - Used Swfit UI Lists with Identifiable Protocal 
 - Implemeneted a REST API
 - State management with Observer Design Pattern 
